@@ -7,9 +7,9 @@ export const siteDescription = '记录回忆，知识和畅想的地方'
 export const include = ['笔记', '生活']
 
 /** Repo */
-export const githubRepoLink = 'https://github.com/11sky/nolebase'
+export const githubRepoLink = 'https://github.com/sky11/nolebase'
 /** Discord */
-export const discordLink = 'https://discord.gg/XuNFDcDZGj'
+export const discordLink = 'https://sky11.github.io/homepage/'
 
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'skyblog.netlify.app'

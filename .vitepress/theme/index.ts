@@ -151,8 +151,8 @@ const ExtendedTheme: Theme = {
     
     // Obtain configuration from: https://giscus.app/
     giscusTalk({
-      repo: 'Jackiexiao/nolebase-template',
-      repoId: 'R_kgDOL5WHsg',
+      repo: 'cc8848/nolebase-template',
+      repoId: 'R_kgDOL2WHsg',
       category: 'Announcements', // default: `General`
       categoryId: 'DIC_kwDOL5WHss4CfTYs',
       mapping: 'url', // default: `pathname`
