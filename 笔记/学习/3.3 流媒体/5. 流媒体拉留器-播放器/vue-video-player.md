@@ -1,1 +1,0 @@
-- git项目地址：https://github.com/surmon-china/vue-video-player

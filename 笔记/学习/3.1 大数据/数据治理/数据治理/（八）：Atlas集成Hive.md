@@ -1,1 +1,0 @@
-- [数据治理（八）：Atlas集成Hive - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/560753065)

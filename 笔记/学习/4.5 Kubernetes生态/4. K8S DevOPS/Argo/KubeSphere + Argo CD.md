@@ -1,1 +1,0 @@
-- [KubeSphere + Argo CD，实现真正的 GitOps](https://mp.weixin.qq.com/s/SmH663CN5cBDe86-WToAXg)

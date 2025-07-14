@@ -1,2 +1,0 @@
-- [CDH整合Flink（CDH6.3.2+Flink1.12.0） - 民宿 - 博客园 (cnblogs.com)](https://www.cnblogs.com/gentlescholar/p/16418606.html)
-- [CDH6.3.2编译并集成Flink_等闲之辈莫等闲的博客-CSDN博客_cdh6.3集成flink](https://blog.csdn.net/weixin_56131938/article/details/117778364)

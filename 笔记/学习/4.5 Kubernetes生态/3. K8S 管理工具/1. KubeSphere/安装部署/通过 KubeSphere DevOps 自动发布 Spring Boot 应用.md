@@ -1,1 +1,0 @@
-- [通过 KubeSphere DevOps 自动发布 Spring Boot 应用 (qq.com)](https://mp.weixin.qq.com/s/spt8B-cKLEQfe-BBDxVo1Q)
