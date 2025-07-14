@@ -1,15 +1,5 @@
----
-date: '2020年05月18日'
-slug: java
-tags:
-- Java
-title: Java
-author: [程序员cxuan](https://juejin.cn/post/6844904162065563661)
-description: 我肝了一个月，为你写出了Java开发手册
----
 
 ## 1 Java 概述
-
 ### 1.1 什么是 Java？
 
 Java 是 Sun Microsystems 于1995 年首次发布的一种`编程语言`和计算平台。编程语言还比较好理解，那么什么是 `计算平台` 呢？
