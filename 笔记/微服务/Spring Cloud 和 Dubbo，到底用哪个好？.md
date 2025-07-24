@@ -1,4 +1,4 @@
-Spring Cloud 是 http 协议传输，带宽会比较多，同时使用 http 协议一般会使用 JSON 报文，消耗会更大
+- Spring Cloud 是 http 协议传输，带宽会比较多，同时使用 http 协议一般会使用 JSON 报文，消耗会更大
 
 dubbo 的开发难度较大，原因是 dubbo 的 jar 包依赖问题很多大型工程无法解决
 
